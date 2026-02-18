@@ -2,7 +2,7 @@ import os
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# .env
+# .env na kompe - ne good v gite
 load_dotenv()
 
 # client openai
